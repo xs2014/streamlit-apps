@@ -1,4 +1,4 @@
-# 📦 Strealit EDA App
+# 📦 Streamlit EDA App
 
 This app allows you to do exploratory data analysis (EDA) on a dataset. 
 
